@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Mời đồng chí lựa chọn trong danh sách sau đây:"
+  },
+  {
+    "type": "template_generic",
+    "attachment": {
+      "type": "template",
+      "payload": {
+        "template_type": "generic",
+        "elements": [
+          {
+            "title": "Trần Mạnh Quân",
+            "image_url": "http://vsdschatbox.cyberbot.vn/sso/image/104277.png",
+            "subtitle": "\nQuân hàm: Đại úy\nChức danh: Phó Giám đốc Khối\nEmail: quantm2@viettel.com.vn\nSĐT: 0988189063",
+            "buttons": [
+              {
+                "type": "postback",
+                "title": "Trần Mạnh Quân",
+                "payload": "{\"state-id\":\"ab78d66f-31fc-4118-b9d9-6a207070f208\",\"content\":\"104277\"}"
+              }
+            ],
+            "details": {
+              "soldierType": "Sĩ quan",
+              "organizationName": "Phụ trách Khối - Khối Xử lý Tiếên nói và ngôn ngữ tự nhiên - Trung tâm Không gian mạng Viettel",
+              "orgPath": "/148841/148842/9001803/149014/256867/9027565/9027566/",
+              "gender": "1",
+              "birthyear": "1987",
+              "mobileNumber": "0988189063",
+              "soldierLevel": "Đại úy",
+              "fullName": "Trần Mạnh Quân",
+              "emailTTS": "quân tê mờ 2 a còng viettel chấm com chấm vê nờ",
+              "employeeId": "41908",
+              "employeeCodeTTS": " 1 0 4 2 7 7 ",
+              "employeeCode": "104277",
+              "positionName": "Phó Giám đốc Khối",
+              "organizationId": "9027566",
+              "mobileNumberTTS": "0 9 8 8, 1 8 9, 0 6 3",
+              "empTypeId": "482",
+              "managed": "106799,057199,191013,019917,000181,001986,011351,001493,001834,016085",
+              "topOrganizationName": "Trung tâm Không gian mạng Viettel",
+              "email": "quantm2@viettel.com.vn",
+              "age": 36,
+              "status": "1"
+            }
+          },
+          {
+            "title": "Hoàng Quân",
+            "image_url": "http://vsdschatbox.cyberbot.vn/sso/image/066619.png",
+            "subtitle": "\nQuân hàm: Thiếu tá QNCN\nChức danh: Phụ trách Tài chính\nEmail: quanh@viettel.com.vn\nSĐT: 0383379888",
+            "buttons": [
+              {
+                "type": "postback",
+                "title": "Hoàng Quân",
+                "payload": "{\"state-id\":\"ab78d66f-31fc-4118-b9d9-6a207070f208\",\"content\":\"066619\"}"
+              }
+            ],
+            "details": {
+              "soldierType": "QNCN",
+              "organizationName": "Lãnh đạo phòng - Phòng Tổng hợp - Trung tâm Không gian mạng Viettel",
+              "orgPath": "/148841/148842/9001803/149014/256867/263462/263463/",
+              "gender": "1",
+              "birthyear": "1979",
+              "mobileNumber": "0383379888",
+             Để chuyển đổi một đoạn văn bản, ví dụ như trên, sang định dạng JSON, bạn có thể sử dụng trình biên tập JSON để tạo ra đối tượng JSON tương ứng. Dưới đây là một ví dụ về cách định dạng đoạn văn bản trên thành một đối tượng JSON:
